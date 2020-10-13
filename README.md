@@ -45,7 +45,7 @@ WIP
 
 ## Стек технологій
 
-
+![stack](img/stack.png "Stack")
 **Back-end:** Node.js, Express.js.
 
 **Front-end:** Vue.js.
