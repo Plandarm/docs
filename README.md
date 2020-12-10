@@ -79,6 +79,28 @@ Workspace → Page → Sub-page → Sub-sub-page → ...
 - секція для часто використовуваних сторінок
 - секція для закріплених сторінок#
 
+# Workflow Diagrams
+
+---
+
+## Діаграма входу на веб-сервіс
+
+![stack](img/WFD1_AccessService.png "Access Service")
+
+---
+
+## Діаграма перегляду сторінки
+
+![stack](img/WFD2_PageView.png "Page View")
+
+---
+
+## Діаграма редагування сторінки
+
+![stack](img/WFD3_WorkWithText.png "Work With Text")
+
+---
+
 # Стек технологій
 
 ![stack](img/stack.png "Stack")
